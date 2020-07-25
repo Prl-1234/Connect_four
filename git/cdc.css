@@ -1,0 +1,22 @@
+body{
+	background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+	color: black;
+}
+table{
+	font-family: 'Roboto', sans-serif;
+}
+h2{
+	border:2px dotted yellow;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.board button{
+	height: 70px;
+	width: 70px;
+	background-color: gray;
+	margin: 2px;
+	text-align: center;
+	border:1px solid black;
+	border-radius: 50%;/*
+	font-size: 40px;*/
+}
